@@ -1,4 +1,7 @@
 # Python Ski Monopoly
+#### This is a 7 week, 4 person project where we created a ski-themed version of Monopoly.
+#### There is a single-player option where you can play against up to 3 computers and a multiplayer option (beta).
+#### Run main.py to play!
 
 ## How the game functions:
 
