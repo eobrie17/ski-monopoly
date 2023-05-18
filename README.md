@@ -1,6 +1,6 @@
 # Python Ski Monopoly
 #### This is a 7 week, 4 person software engineering project where we created a ski-themed version of Monopoly.
-### We were using Agile methodology and completed the project in 3 sprints.
+#### We were using Agile methodology and completed the project in 3 sprints.
 #### There is a single-player option where you can play against up to 3 computers and a multiplayer option (beta).
 #### Run main.py to play!
 
